@@ -2,7 +2,7 @@
 <h3 align="center">3rd year IT student. Love to explore tech.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvivek503" alt="cvivek503" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 📫 How to reach me **cvivek503@gmail.com**
 
